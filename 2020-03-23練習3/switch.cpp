@@ -25,21 +25,22 @@ int main(int argc, char** argv) {
 	
 	switch(var1){
 		case 'A':
-			printf("A¯Å");
+			printf("AÂ¯Ã…");
 			break;
 		case 'B':
-			printf("B¯Å");
+			printf("BÂ¯Ã…");
 			break;
 		case 'C':
-			printf("C¯Å");
+			printf("CÂ¯Ã…");
 			break;
 		case 'D':
-			printf("D¯Å");
+			printf("DÂ¯Ã…");
 			break;
 			
 		case 'E':
-			printf("E¯Å");
+			printf("EÂ¯Ã…");
 			break;
 			}	
 }
+
 
