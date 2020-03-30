@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496659055 source:c:\users\user01\desktop\velocitycalculate\main.c
+	<stdio.h>
+	<stdlib.h>
+
